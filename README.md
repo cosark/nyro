@@ -309,6 +309,12 @@ For Postgres- or MySQL-backed deployments and `docker compose` usage, see the [d
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Nyro/)
+
+---
+
 ## Quick Start
 
 **1. Add a Provider**

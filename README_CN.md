@@ -310,6 +310,12 @@ docker run --rm \
 
 ---
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Nyro/)
+
+---
+
 ## 快速开始
 
 **1. 添加 Provider**
